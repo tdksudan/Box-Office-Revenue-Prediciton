@@ -1,0 +1,502 @@
+Movie ID,Title,Genre,Director,Cast,Release Date,Budget (in millions),Runtime (in minutes),Box Office Revenue (in millions)
+1,Kabaddi 4: The Final Match,Romantic/Comedy,Ram Babu Gurung,"Dayahang  Rai, Saugat Malla ",2022-05-27,0.228,137,1.78
+2,Chhakka Panja ,Comedy,Deepa Shree Niraula,"Deepak Raj Giri, Kedar Ghimire",2016-09-09,0.0679,139,1.32
+3,Chhakka Panja 2,Comedy,Deepa Shree Niraula,"Deepak Raj Giri, Kedar Ghimire",2017-08-27,0.0797,135,1.15
+4,Chhakka Panja 3,Comedy,Deepa Shree Niraula,"Deepak Raj Giri, Kedar Ghimire",2018-10-01,0.16,145,1.62
+5,Chhakka Panja 4,Comedy,Hem Raj BC,"Deepak Raj Giri, Kedar Ghimire",2023-03-03,0.228,152,1.34
+6,Chhakka Panja 5,Comedy,Deepa Shree Niraula,"Deepak Raj Giri, Kedar Ghimire",2024-10-10,0.288,120,1.1
+7,Kabaddi Kabaddi Kabaddi,Romantic/Comedy,Ram Babu Gurung,"Dayahang  Rai, Upasana Singh Thakuri",2019-09-20,0.219,115,1.18
+8,Shatru Gate,Drama,Pradip Bhattarai,"Hari Bansha Acharya, Madan Krishna Shrestha ",2018-03-23,0.094,125,1.13
+9,Mahajatra ,Drama,Pradip Bhattarai,"Hari Bansha Acharya, Bipin Karki  ",2024-03-22,0.187,160,2.03
+10,Kohinoor,Drama,Aakash Adhikari ,"Shree Krishna Shrestha, Shweta Khadka",2014-08-08,0.15,138,1.12
+11,Boksi ko Ghar,Drama,Sulakshyan Bharati,"Keki Adhikari, Swechchha Raut ",2024-04-26,0.075,109,0.768
+12,Dimag Kharab,Comedy,Nischal Basnet,"Khagendra Lamichhane, Dayahang Rai ",2023-11-10,0.3,148,0.757
+13,12 Gaun,Action/Drama,Biraj Bhatta ,"Biraj Bhatta, Samir Bhatt",2024-10-10,0.3,147,1.6
+14,Prem Geet 3,Romance,Chheetan Gurung & Santosh Sen ,"Pradeep Khadka, Kristina Gurung ",2022-09-23,0.34,130,2.9
+15,Chha Maya Chhapakkai,Drama/Comedy,Dipendra Lama ,"Deepak Raj Giri, Kedar Ghimire",2019-10-11,0.132,145,0.832
+16,A Mero Hajur 3,Romance,Jharana Thapa ,"Anmol KC, Suhana Thapa ",2019-04-12,0.174,125,0.768
+17,Pashupati Prasad 2: Bhasme Don,Comedy,Dipendra k.Khanal,"Bipin Karki, Saugat Malla ",2023-10-21,0.225,147,0.759
+18,Loot 2,Action/Comedy, Nischal Basnet," Saugat Malla, Dayahang Rai",2017-02-24,0.149,130,0.987
+19,Kri,Drama,Surendra Poudel,"Aditi Budhathoki, Anmol K.C.",2018-02-09,0.259,138,0.63
+20,Loot ,Comedy/Action,Nischal Basnet,"Saugat Malla, Karma Shakya ",2012-01-13,0.007,121,0.583
+21,A Mero Hajur 4,Romance,Jharana Thapa ,"Anmol KC, Suhana Thapa ",2022-04-14,0.11,138,0.25
+22,A Mero Hajur 2,Romance,Jharana Thapa ,"Smjhana Lama, Samragyee RL Shah ",2017-09-01,0.145,138,0.814
+23,Prem Geet ,Romance,Sudarshan Thapa ,"Pradeep Khadka, Rupa Rana",2016-02-12,0.094,137,0.361
+24,Prem Geet 2,Romance,Ram Sharan Pathak ,"Pradeep Khadka, Aaslesha Thakuri ",2017-07-28,0.28,138,1.16
+25,Kabaddi ,Romantic/Drama,Ram Babu Gurung,"Dayahang Rai, Nischal Basnet ",2014-04-25,0.035,123,0.26
+26,Kabaddi  Kabaddi,Romantic/Drama,Ram Babu Gurung,"Dayanhang Rai, Saugat Malla ",2015-11-27,0.96,133,0.988
+27,Baahubali 2: The Conclusion,Action/Fantasy,S.S. Rajamouli ,"Prabhas, Rana Daggubati ",2017-04-28,37.8,171,300
+28,Baahubali ,Action/Fantasy,S.S. Rajamouli ,"Prabhas, Rana Daggubati ",2015-07-10,27.9,159,120
+29,KGF: Chapter 2,Action,Prashanth Neel,"Yash, Sanja Dutt",2022-04-14,12,168,114
+30,K.G.F,Action,Prashanth Neel,"Yash, Sanja Dutt",2018-12-21,9.6,155,30
+31,Kalki 2898 AD,Sci-Fi,Nag Ashwin,"Prabhas, Kamal Hassan",2024-06-27,72,181,144
+32,RRR,Action/Drama,S.S. Rajamouli ,"N.T.Rama Rao Jr, Ram Charan",2022-03-25,66,182,170
+33,Pathaan,Action,Siddharth Anand,"Shah Rukh Khan, Deepika Paukone ",2023-01-25,30,146,166
+34,Jawan,Action,Atlee Kumar,"Shah Rukh Khan, Deepika Paukone ",2023-09-07,36,169,137.8
+35,Dangal,Drama/Sport,Nitesh Tiwari,"Amir Khan, Kiran Rao ",2016-12-23,8.4,161,334
+36,Animal,Action,Sandesh Reddy Vanga,"Ranbir Kapoor, Anil Kapoor ",2023-12-01,12,201,110
+37,PK,Comedy/Drama,Rajumar Hirani ,"Amir Khan, Anushka Sharma ",2014-12-19,14.64,152,118.92
+38,Sultan,Action/Romance,Ali Abbas Zafar,"Salman Khan, Anushka Sharma ",2016-07-06,10.8,170,93
+39,Salaar:Part1-Ceasefire,Action,Prashanth Neel,"Prabhas, Prithviraj Sukumaran ",2023-12-22,32.4,175,83
+40,Avatar:The Way of Water,Sci-Fi/Adventure,James Cameron ,"Sam Worhington, Zoe Saldana ",2022-12-16,460,192,2320
+41,Spider-Man:No Way Home,Superhero,Jon Watts,"Tom Holland, Zendaya ",2021-12-17,200,148,1952
+42,Bajrangi Bhaijaan,Drama/Adventure,Kabir Khan,"Salman Khan, Harshaali Malhotra ",2015-07-17,9,159,143.13
+43,Dhoom 3, Action/Comedy,Vijay Krishna Acharya ,"Amir Khan, Abishek Bachchan ",2013-12-20,12,172,85.53
+44,Senti Virus,Comedy/Drama,Rambabu Gurung,"Sitaram Kateel, Dayahang Rai",2020-02-21,0.213,135,0.313
+45,Jaari,Social /Drama ,Upendra Subba ,"Dayahang Rai, Miruna Magar ",2023-04-14,0.15,121,1.3
+46,Jatra ,Comedy ,Pradip Bhattarai,"Bipin Karki, Rabindra Singh Baniya  ",2016-11-11,0.266,144,0.261
+47,Jatrai jatra,Comedy,Pradip Bhattarai,"Bipin Karki, Rabindra Singh Baniya  ",2019-05-17,0.1292,137,0.88
+48,Apabad  ,Drama,Subash Koirala ,"Nisha Adhikari, Raj Ballav Koirala ",2012-05-18,0.021,110,0.035
+49,Pardeshi ,Drama ,Narayan Rayamajhi,"Prashant Tamang, Rajani K.C",2015-10-22,0.075,143,0.44
+50,Pardeshi 2,Drama ,Narayan Rayamajhi,"Prashant Tamang, Keki Adhikari ",2023-10-12,0.08,143,0.522
+51,Jhatkka,Comedy ,Wronit Bee Mizaar ,"Surbir Pandit, Rakshya Guragai ",2019-05-24,0.06,137,0.09
+52,Shambhala,Drama,Min Bhadur Bham,"Thinley Lhamo, Sonam Topden ",2024-02-23,1.1,150,0.104
+53,Agastya,Action ,Saurav Chaudhary,"Saugat Malla, Naijr Husen",2024-03-01,0.19,160,0.175
+54,Hostel,Comedy/Drama,Hem Raj BC,"Anmol KC, Gaurav Pahari",2013-06-20,0.058,135,0.18
+55,Hostel Returns,Comedy/Drama,Suraj Bhusal,"Najir Hussain, Swastima Khadka ",2015-08-21,0.0684,125,0.152
+56,Jerryy,Romantic/ Drama,Hem Raj BC,"Anmol KC, Anna Sharma",2014-11-14,0.0646,138,0.208
+57,Dreams,Romantic/ Comedy,Bhuwan KC,"Anmol KC, Sandhya Kc",2016-03-04,0.057,166,0.29
+58,Nai Nabhannu La 4,Romantic ,Bikash Raj Acharya ,"Paul Shah, Priyanka Karki",2016-04-08,0.684,120,0.298
+59,Mukhauta,Action/Drama,Arpan Thapa ,"Sunil Thapa, Rajesh Hamal ",2014-06-13,0.684,142,0.0052
+60,Venom,Superhero,Ruben Fleischer,"Tom Hardy, Michelle Williams",2018-10-05,100,112,856.1
+61,Avengers: Infinity War,Superhero,"Anthony Russo, Joe Russo ","Robert Downey Jr., Chris Hemsworth",2018-04-27,325,149,2052
+62,Avengers: End Game,Superhero,"Anthony Russo, Joe Russo ","Robert Downey Jr., Chris Hemsworth",2019-04-26,356,181,2799
+63,Minions: The Rise of Gru,Comedy/Animation,Kyle Balda,"Steve Carell, Pierre Coffin",2022-07-01,80,87,940.2
+64,Despicable Me 4,Comedy/Animation,Chris Renaud,"Steve Carell, Pierre Coffin",2024-07-03,100,95,968.3
+65,Spider-Man: Far From Home,Superhero,Jon Watts,"Tom Holland, Zendaya ",2019-07-02,160,129,1133
+66, Top Gun:Maverick,Action/Drama,Josep Kosinski ,"Tom Cruise, Miles Teller ",2022-05-27,170,131,1496
+67,Samrat Prithviraj,Action/Drama,Chandraprakash Dwivedi ,"Akshay Kumar, Sanjay Dutt ",2022-06-03,17,135,10
+68,Vikram Vedha,Action,Pushkar Gayathri ,"Saif Ali Khan, Hirithik Roshan",2022-09-30,11,151,16.05
+69,Major,Action/Drama,Sashi Kiran Tikka,"Adivi Sesh, Prakash Raj",2022-06-03,3.81,146,7.61
+70,Brahmastra part one: Shiva,Action/Adventure,Ayan Mukerji ,Amirabh Bachchan ,2022-09-09,44.63,167,49.84
+71,Drishyam 2,Action/Drama,Abhishek Pathak,"Ajay Devgn, Askshaye Khanna ",2022-11-18,5.9,140,41
+72,Uunchai,Adventure/Drama,Sooraj R.Barjatya,"Amitabh Bachchan, Anupam Kher ",2022-11-11,2.9,170,5.69
+73,Kantara,Action/Thriller,Rishabh Shetty,"Rishabh Shetty, Sapthami Gowda ",2022-09-30,1.8,148,47
+74,Kisi Ka Bhai Kisi Ki Jaan,Action/Comedy,Farhad Samji,"Salman Khan, Pooja Hegde",2023-04-21,15,144,22
+75,Black Panther: Wakanda Forever,Superhero,Ryan Coogler ,"Chadwick Boseman, Michael B.Jordan",2018-02-16,200,134,1350
+76,Adipurush,Mythological /Action,Om Raut ,"Prabhas, Saif Ali Khan ",2023-06-16,84,179,41.5
+77,Laal Singh Chaddha,Comedy/Drama,Advait Chandan ,"Amair Khan, Kareena Kapoor Khan ",2022-08-11,21.3,159,15.4
+78,John Wick: Chapter 4,Action/Thriller,Chad Stahelski ,"Keanu Reeves, Donnie yen",2023-03-24,100,169,440.1
+79,Guardian of the Galaxy Vol.3,Superhero,James Gunn,"Chris Pratt, Zoe Saldana",2023-05-05,250,150,845.6
+80,Shamshera,Action/Drama,Karan Malhotra ,"Ranbir Kapoor, Sanjay Dutt",2022-07-22,17.8,159,7.4
+81,Fast X,Action,Louis Leterrier ,"Bin Diesel, Michelle Rodriguez",2023-05-19,378.8,141,715
+82,Tu Jhoothi Main Makkar,Romantic/Comedy,Luv Ranjan,"Ranbir Kapoor, Shraddha Kapoor ",2023-03-08,23,164,26.1
+83,Spider-Man: Across the Spider-Verse,Animation/Superhero,"Joaquim Dos Santos, Kemp Powers, Justin K.Thompson ","Shamek Moore, Hailee Steinfeld, Jake Johnson",2023-06-02,100,140,690.8
+84,Liger,Action/Drama,Puri Jagannadh,"Vijay Deverakonda, Mike Tyson ",2022-08-25,14,138,7.1
+85,Black Adam,Superhero,Jaume Collet-Serra ,"Dwayne Johnson, Pierce Brosnan",2022-10-21,190,125,393.5
+86,Bholaa,Action/Thriller,Ajay Devgn,"Ajay Devgn, Tabu",2023-03-30,11,144,13
+87,The Kerala Story,Drama,Sudipto Sen,"Adah Sharma, Yogita Bihani",2023-05-05,1.7,138,35
+88,Ant-Man and The Wasp: Quantumania ,Superhero,Peyton Reed ,"Paul Rudd, Evangeline lilly",2023-02-17,388,124,476
+89,Bhediya,Comedy/Horror,Amar Kaushik,"Varun Dhawan, Kriti Sanon",2022-11-25,7,156,10
+90,Evil Dead Rise,Horror,Lee Cronin,"Lily Sullivan, Alyssa Sutherland",2023-04-21,15,97,147
+91,Satya Prem Ki katha,Romantic/Drama,Sameer Vidwans,"Kartik Aaryan, Kiara Advani",2023-06-29,7,144,14
+92,Barbie ,Comedy,Warner Bros ,"Margot Robbie, Ryan Gosling ",2023-07-21,128,114,1446
+93,The Super Mario Bros. Movie ,Animation/Comedy,"Aaron Horvath, Michael Jelenic ","Chris Pratt, Anya Taylor-Joy ",2023-04-05,100,92,1362
+94,Oppenheimer ,Biographical/Thriller,Christopher Nolan,"Cillian Murphy, Emily Blunt ",2023-07-21,100,180,977
+95,Full River Red ,Comedy/Thriller ,Zhang Yimou,"Shen Tneg, Jackson Yee",2023-01-22,72.7,159,634
+96,Wonka ,Fantasy/Comedy,Paul King ,"Timothee Chalamet, Calah Lane ",2023-12-15,125,116,634.4
+97,The Wandering Earth 2,Sc-Fi/Adventure ,Fant Gwo,"Wu Jing, Andy Lau ",2023-01-22,125,173,604.5
+98,"
+Mission: Impossible � Dead Reckoning",Spy/Action,Christopher McQuarrie ,"Tom Cruise, Hayley Atwell",2023-07-12,291,163,570.6
+99,Sound of Freedom ,Thriller,Alejandro Monteverde ,"Jim Caviezel, Mira Sorvino ",2023-07-04,14.5,131,250
+100,M3GAN,Sc-Fi/Horror,Gerard Johnstone ,"Allison Williams, Violet McGraw ",2023-01-06,12,102,181
+101,The Old Way ,Action/Western,Brett Donowho ,"Nicolas Cage, Rayan Kiera Armstrong",2023-01-06,1,95,0.059
+102,The Devil Conspiracy ,Sc-Fi/Horror,Nathan Frankowski ,"Alice Orr-Ewing, Joe Doyle ",2023-01-13,5,111,0.98
+103,Plane ,Action/Thriller,Jean-Francois Richet ,"Gerard Butler, Mike Colter ",2023-01-13,25,107,74.5
+104,House Party ,Comedy,Caimatic ,"Tosin cole, Jacoob Latimore ",2023-01-13,2.5,98,9.3
+105,Sick,Slasher/Action,John Hyams ,"Gideon Adlon, Beth Million",2023-01-13,7,83,1
+106,Missing ,Thriller,"Will Merrick, Nick Johnson","Strom Reld, Joaquim de Almeida ",2023-01-20,7,111,48.8
+107,The Son ,Drama,Florian Zeller ,"Hugh Jackman, Laura Dern ",2023-03-01,6,123,3.6
+108,When You Finish Saving The World ,Comedy/Drama,Jesse Eisenberg,"Julianne Moore, Finn Wofhard ",2023-01-20,0.5,88,0.1
+109,Iron Man,Superhero,Jon Favreau ,"Robert Downey Jr., Terrence Howard ",2023-05-02,130,126,585
+110,The Incredible Hulk ,Superhero,Louis Leterrier ,"Edward Norton, Liv Tyler ",2008-06-13,137.5,112,265.5
+111,Iron Man 2,Superhero,Jon Favreau ,"Robert Downey Jr., Gwyneth Paltrow",2010-05-07,170,125,623.9
+112,Thor ,Superhero,Kenneth Branagh,"Chris Hemsworth, Natalie Portman",2011-05-06,150,114,449.3
+113,Captain America:The First Avenger ,Superhero,Joe Johnston,"Chris Evans, Tommy Lee Jones ",2011-07-22,140,124,370.6
+114,The Avengers ,Superhero,Joss Whedon,"Robert Downey Jr., Chris Evans ",2012-05-04,220,143,1521
+115,Iron Man 3,Superhero,Shane Black ,"Rober Downey Jr., Gwayneth Paltrow ",2013-05-03,200,131,1216
+116,Thor:The Dark World ,Superhero,Alan Taylor ,"Chris Hemsworth, Natalie Portman",2013-11-08,150,112,644.8
+117,Captain America:The Winter Soldier ,Superhero,"Anthony Russo, Joe Russo ","Chris Evans, Scarlett Johansson ",2014-04-04,170,136,714.4
+118,Guardians of the Galaxy,Superhero,James Gunn,"Chris Pratt, Zoe Saldana",2014-08-01,232.3,122,773.4
+119,Avengers:Age of Ultron,Superhero,Joss Whedon,"Robert Downey Jr., Chris Hemsworth",2015-05-01,365,141,1405
+120,Ant-Man  ,Superhero,Peyton Reed ,"Paul Rudd, Evangeline lilly",2015-07-17,130,117,519.3
+121,Captain America:Civil War ,Superhero,"Anthony Russo, Joe Russo ","Chris Evans, Robert Downey Jr.",2016-05-06,250,147,1155
+122,Doctor Strange ,Superhero,Scott Derrickson,"Benedict Cumberbatch, Chiwetel Ejiofor ",2016-11-04,165,115,677.8
+123,Guardians of the Galaxy Vol.2,Superhero,James Gunn,"Chris Pratt, Zoe Saldana",2017-05-05,200,136,869
+124,Spider-Man:Homecoming,Superhero,Jon Watts,"Tom Holland, Zendaya ",2017-07-07,175,133,880.9
+125,Thor:Ragnarok ,Superhero ,Talka Waititi,"Chris Hemsworth, Tom Hiddleston",2017-11-03,180,130,865
+126,Black Panther ,Superhero ,Ryan Coogler ,"Chadwick Boseman, Michael B.Jordan",2018-02-16,200,134,1350
+127,Avengers:Infinity War ,Superhero ,"Anthony Russo, Joe Russo ","Robert Downey Jr., Chris Hemsworth",2018-04-27,325,149,2052
+128,Ant-Man and The Wasp ,Superhero ,Peyton Reed ,"Paul Rudd, Evangeline lilly",2018-07-06,130,118,622.7
+129,Captian Marvel ,Superhero ,Anna Boden ,"Brie Larson, Samuel L. Jackson",2018-03-08,152,124,1131
+130,Avengers:Endgame ,Superhero ,"Anthony Russo, Joe Russo ","Robert Downey Jr., Chris Hemsworth",2018-04-22,356,181,2799
+131,Black Widow ,Superhero ,Cate Shortland ,"Scarlett Johansson, Florence Pugh ",2021-07-09,288.5,134,379.8
+132,Shang-Chi and the Legend of the Ten Rings ,Superhero ,Destin Daniel Cretton ,"Simu Liu, Awkwafina ",2021-08-16,150,132,432.2
+133,Enternals ,Superhero ,Chloe Zhao ,"Gemma Chan, Richard Madden",2021-11-05,236.2,156,402.1
+134,Doctor Strange in the Multiverse of Madness ,Superhero ,Sameer Vidwans,"Benedict Cumberbatch, Chiwetel Ejiofor ",2022-05-06,414.9,126,955.8
+135,Thor:Love and Thunder ,Superhero ,Taika Waititi,"Chirs Hemsworth, Christian Bale ",2022-07-08,250,119,760.9
+136,The Marvels,Superhero ,Nia DaCosta,"Brie Larson, Samuel L. Jackson",2023-11-10,274.8,105,206.1
+137,Deadpool and Wolverine,Superhero ,Shawn Levy,"Ryan Reynolds, Hugh Jackman",2024-07-22,200,128,1338
+138,Man of Steel ,Superhero ,Zack Snyder ,"Henry Cavill, Amy Adams",2013-06-14,225,143,670
+139,Batman v Superman:Dawn of Justice,Superhero ,Zack Snyder ,"Ben Affleck, Henry Cavill",2016-03-25,250,152,874.4
+140,Suicide Squad ,Superhero ,David Ayer ,"Will Smith, Jared Leto ",2016-08-05,175,123,749.2
+141,Wonder Women ,Superhero ,Patty Jenkins ,"Gal Gadot, Chris Pine ",2017-06-02,149,141,824
+142,Justic League ,Superhero ,"Zack Snyder, Joss Whedon ","Ben Affleck, Henry Cavill",2017-11-17,300,120,661.3
+143,Aquaman ,Superhero ,James Wan ,"Jason Momoa, Amber Heard ",2018-12-21,160,143,1152
+144,Shazam ,Superhero ,David F.Sandberg ,"Zachary Levi, Mark Strong ",2019-04-05,90,132,367.8
+145,Birds of Prey,Superhero ,Cathy Yan,"Margot Robbie, Mary Elizabeth ",2020-02-07,82,109,205.5
+146,Wonder Women 1984,Superhero ,Patty Jenkins ,"Gal Gadot, Chris Pine ",2020-12-25,200,151,170
+147,Zack Snyder's Justice League ,Superhero ,Zack Synder,"Ben Affleck, Henry Cavill",2021-03-18,70,242,90
+148,The Suicide Squad ,Superhero ,James Gunn,"Margot Robbie, Idris Elba ",2021-08-05,185,132,168.7
+149,Shazam! Fury of the Gods ,Superhero ,David F.Sandberg ,"Zachary Levi, Asher Angel",2023-03-17,110,130,134.1
+150,The Flash ,Superhero ,Andy Muschietti ,"Ezra Miller, Sasha Calle ",2023-06-16,200,144,271.4
+151,Blue Beetle ,Superhero ,Angle Manuel Soto ,"Xolo Mariduena, Adriana Barraza ",2023-08-18,104,127,130.8
+152,Aquaman and the Lost Kingdom ,Superhero ,James Wan ,"Jason Momoa, Amber Heard ",2023-12-22,205,124,434.4
+153,Harry Potter and the Philosopher's Stone ,Fantasy,Chris Columbs ,"Daniel Radcliffe, Rupert Grint ",2001-11-16,125,152,1024
+154,Harry Potter and the Chamber of Secrets ,Fantasy,Chris Columbs ,"Daniel Radcliffe, Rupert Grint ",2002-11-15,100,161,882.5
+155,Harry Potter and the Prisoner of Azkaban ,Fantasy,Alfonso Cuaron,"Daniel Radcliffe, Rupert Grint ",2004-06-04,130,142,808.5
+156,Harry Potter and the Goblet of Fire ,Fantasy,Mike Newell,"Daniel Radcliffe, Rupert Grint ",2005-11-18,150,157,897.5
+157,Harry Potter and the Order of the Phoenix ,Fantasy,David Yates,"Daniel Radcliffe, Rupert Grint ",2007-07-11,150,138,942.2
+158,Harry Potter and the Half-Blood Prince,Fantasy,David Yates,"Daniel Radcliffe, Rupert Grint ",2009-07-15,250,153,941
+159,Harry Potter and the Deathly Hallows-Part 1,Fantasy,David Yates,"Daniel Radcliffe, Rupert Grint ",2010-11-19,250,146,960.9
+160,Harry Potter and the Deathly Hallows-Part 2,Fantasy,David Yates,"Daniel Radcliffe, Rupert Grint ",2011-07-15,250,130,1342
+161,The Lord of the Rings:The Followship of the Ring ,Fantasy/Adventure ,Peter Jackson,"Elijah Wood, Ian McKellen ",2001-12-20,93,178,887.4
+162,The Lord of the Rings:The Two Towers,Fantasy/Adventure ,Peter Jackson,"Elijah Wood, Ian McKellen ",2002-12-18,94,179,951.6
+163,The Lord of the Rings:The Return of the King ,Fantasy/Adventure ,Peter Jackson,"Elijah Wood, Ian McKellen ",2003-12-18,94,201,1151
+164,Avatar ,Sc-Fi,James Cameron ,"Sam Worhington, Zoe Saldana ",2009-12-18,237,162,2923
+165,Twilight ,Romantic/Fantasy,Catherine Hardwicke ,"Kristen Stewart, Robert Pattinson ",2008-11-21,37,121,408.4
+166,The Twilight Saga: New Moon,Romantic/Fantasy,Chris Weitz ,"Kristen Stewart, Robert Pattinson ",2009-11-20,50,130,711
+167,The Twilight Saga: Eclipse,Romantic/Fantasy,David Slade ,"Kristen Stewart, Robert Pattinson ",2010-06-30,68,123,698.4
+168,The Twilight Saga: Breaking Dawn-Part 1,Romantic/Fantasy,Bill Condon ,"Kristen Stewart, Robert Pattinson ",2011-11-18,127,117,712.2
+169,The Twilight Saga: Breaking Dawn-Part 2,Romantic/Fantasy,Bill Condon ,"Kristen Stewart, Robert Pattinson ",2012-11-16,136,115,848.6
+170,Transformers ,Sc-Fi/Action,Michael Bay,"Shia LaBeouf, Tyrese Gibson ",2007-07-03,145,143,709.7
+171,Transformers: Revenge of the Fallen ,Sc-Fi/Action,Michael Bay,"Shia LaBeouf, Tyrese Gibson ",2009-07-24,200,150,836.5
+172,Transformers: Dark of the Moon ,Sc-Fi/Action,Michael Bay,"Shia LaBeouf, Tyrese Gibson ",2011-07-29,195,154,1124
+173,Transformers: Age of Extinction ,Sc-Fi/Action,Michael Bay,"Mark Wahlberg, Roger Barton ",2014-06-27,210,165,1104
+174,Transformers:The Last Knight ,Sc-Fi/Action,Michael Bay,"Mark Wahlberg, Josh Duhamel",2017-06-21,217,149,605.4
+175,Bumblebee,Sc-Fi/Action,Travis Knight ,"Hailee Steinfeld, John Cena ",2018-12-21,102,114,468
+176,Transformers:Rise of the Beasts ,Sc-Fi/Action,Steven Caple Jr.,"Anthony Ramos, Dominique Fishback ",2023-06-09,195,127,441.4
+177,Ice Age,Animation/Adventure,Chris Wedge ,"Ray Romano, John Leguizmo ",2002-03-15,59,81,383.2
+178,Ice Age: The Meltdown ,Animation/Adventure ,Carlos Saldanha ,"Ray Romano, John Leguizmo ",2006-03-31,80,91,667
+179,Ice Age:Dawn of the Dinosaurs ,Animation/Adventure ,Carlos Saldanha ,"Ray Romano, John Leguizmo ",2009-07-01,90,94,886.7
+180,Ice Age:Continental Drift ,Animation/Adventure ,"Steve Martino, Michael Thurmeier ","Ray Romano, John Leguizmo ",2012-07-13,95,88,887
+181,Ice Age: Collision Course ,Animation/Adventure ,Michael Thurmeier ,"Ray Romano, John Leguizmo ",2016-07-22,105,94,408.5
+182,The Ice Age Adventures of Buck Wild ,Animation/Adventure ,John C.Donkin,"Simon Pegg, Utkarsh Ambudkar ",2022-01-28,63,82,80
+183,Inside Out 2 ,Animation ,Kelsey Mann,"Amy Poehler, Maya Hawake ",2024-06-14,200,96,1697
+184,The Lion King (2019),Animation/Musical/Drama,Jon Favreau ,"Donalod Glover, Seth Rogen ",2019-07-19,250,118,1657
+185,Frozen 2,Animation/Musical/Fantasy,"Chris Buck, Jennifer Lee ","Kristen Bell, Idina Menzel ",2019-11-22,150,103,1453
+186,Frozen ,Animation/Musical/Fantasy,"Chris Buck, Jennifer Lee","Kristen Bell, Idina Menzel",2013-11-27,150,102,1280
+187,Incredibles 2,Animation/Superhero,Brad Bird ,"Craig T.Nelson, Holly Hunter",2018-06-15,200,118,1243
+188,Minions ,Animation/Comedy,"Pierre Coffin, Kyle Balda ","Sandra Bullock, Jon Hamm",2015-07-10,74,91,1159
+189,Toy Story 4,Animation/Comedy,Josh Cooley ,"Tom Hanks, Tim Allen ",2019-06-21,200,100,1074
+190,Toy Story 3,Animation/Comedy,Lee Unkrich ,"Tom Hanks, Tim Allen ",2010-06-18,200,103,1067
+191,Despicable Me 3,Animation/Comedy,"Pierre Coffin, Kyle Balda ","Steve Carell, Pierre Coffin",2017-06-30,80,90,1035
+192,Finding Dory ,Animation/Comedy/Drama,Andrew Stanton ,"Ellen DeGeneres , Albert Brooks ",2016-06-17,200,97,1029
+193,Zootopia ,Animation/Comedy,"Byron Howard, Rich Moore ","Ginnifer Goodwin, Jason Bateman ",2016-03-04,150,108,1025
+194,The Lion King ,Animation/Musical/Drama,"Roger Allers, Rob Minkoff ","Janathan Taylor Thomas, Matthew Broderick ",1994-06-15,45,88,978.8
+195,Despicable Me 2,Animation/Comedy,"Chirs Renaud, Pierre Coffin ","Steve Carell, Kristen Wilig ",2013-07-03,76,98,971
+196,Finding Nemo ,Animation/Comedy/Drama,Andrew Stanton ,"Albert Brooks, Ellen DeGeneres ",2003-05-30,94,100,940.3
+197,Shrek 2,Animation/Comedy/Fantasy ,"Andrew Adamson, Kelly Asbury, Conrad Vernon","Mike Myers, Eddie Murphy ",2004-05-19,150,92,935.5
+198,The Secret Life of Pets ,Animation/Comedy ,Chris Renaud,"Lousis C.K, Eric Stonestreet ",2016-07-09,75,86,885.3
+199,Inside Out ,Animation/Comedy ,Pete Docter ,"Amy Poehler, Phyllis Smith ",2015-06-19,175,95,858.8
+200,Coco,Animation/Comedy/Fantasy ,Lee Unkrich ,"Anthoy Gonzalez, Gael Garcia Bernal",2017-11-22,175,105,814.3
+201,Shrek The Third ,Animation/Comedy/Fantasy ,Chris Miller ,"Mike Myers, Eddie Murphy ",2007-05-18,160,92,813.4
+202,Shrek Forever After,Animation/Comedy/Fantasy ,Mike Mitchell,"Mike Myers, Eddie Murphy ",2010-05-21,135,93,756.2
+203,Madagascar 3:Eurpoe's Most Wanted ,Animation/Comedy ,"Eric Darnell, Conrad Vernon, Tom McGrath ","Ben Stiller, Chris Rock ",2012-06-08,145,93,746.9
+204,Madagascar 2:Escape 2 Africa ,Animation/Comedy/Adventure ,"Eric Darnell, Tom McGrath ","Ben Stiller, Chris Rock ",2008-11-07,150,89,603.9
+205,Madagascar ,Animation/Comedy/Survival  ,"Eric Darnell, Tom McGrath ","Ben Stiller, Chris Rock ",2005-05-27,75,86,556.6
+206,Monsters University ,Animation/Comedy ,Dan Scanlon ,"Billy Crystal, John Goodman",2013-06-21,200,104,743.6
+207,Up,Animation/Comedy/Adventure ,Pete Docter ,"Ed Asner, Christopher Plummer ",2009-05-29,175,96,735.1
+208,Ne Zha ,Animation/Fantasy,Yu Yang ,"Lu Yanting, Joseph ",2019-07-13,20,110,742.7
+209,Kung Fu Pand,Animation/Comedy/Martial Arts ,"John Stevenson, Mark Osborne ","Jack Black, Dustin Hoffman ",2008-06-06,130,92,631.7
+210,Kung Fu Pand 2,Animation/Comedy/Martial Arts ,Jenniefer Yuh Nelson ,"Jack Black, Dustin Hoffman ",2011-05-26,150,90,665.6
+211,Kung Fu Pand 3,Animation/Comedy/Martial Arts ,"Jenniefer Yuh Nelson, Alessandro Carloni ","Jack Black, Dustin Hoffman ",2016-01-29,145,95,521
+212,Kung Fu Pand 4,Animation/Comedy/Martial Arts ,Mike Mitchell,"Jack Black, Dustin Hoffman ",2024-03-08,85,93,549.2
+213,Big Hero 6,Animation/Superhero,"Don Hall, Chris Williams ","Scott Adsit, Ryan Potter ",2014-10-31,165,102,657.8
+214,Moana ,Animation/Musical/Fantasy,"John Musker, Ron Clements","Dwayne Johnson, Auli'I Cravalho ",2016-11-23,150,107,687.2
+215,Sing ,Animation/Jukebox/Musical,Garth Jennings ,"Matthew McConaughey, Reese Witherspoon ",2016-12-21,75,108,634
+216,The Incredibles ,Animation/Superhero,Brad Bird ,"Craig T.Nelson, Holly Hunter",2004-11-05,92,115,631.6
+217,Ratatouille ,Animation/Comedy/Drama,Brad Bird ,"Patton Oswalt, Ian Holm ",2007-06-29,150,111,623.7
+218,How To Train Your Dragon ,Animation/Fantasy,"Chris Sanders, Dean DeBlois ","Jay Baruchel, Gerard Butler ",2016-03-26,165,98,494.9
+219,How To Train Your Dragon 2,Animation/Fantasy,Dean DeBlois ,"Jay Baruchel, Gerard Butler ",2014-06-13,145,102,621.5
+220,How To Train Your Dragon:The Hidden World ,Animation/Fantasy,Dean DeBlois ,"Jay Baruchel, Gerard Butler ",2019-02-22,129,104,525.7
+221,Tangled ,Animation/Fantasy/Comedy,"Nathan Greno, Byron Howard ","Mandy Moore, Zachary Levi",2010-11-24,260,100,592.5
+222,The Croods,Animation/Comedy/Adventure ,"Chris Sanders, Kirk DeMicco ","Nicolas Cage, Emma Stone ",2013-03-22,135,98,587.3
+223,Monsters Inc ,Animation/Comedy ,Peter Docter ,"John Goodman, Billy Crystal",2001-11-02,115,92,579.7
+224,Cars ,Animation/Comedy/Sports,John Lasseter ,"Paul Newman, Qwen Wilson ",2006-06-09,120,117,462
+225,Cars 2,Animation/Comedy/Spy,John Lasseter ,"Larry the Cable Guy, Owen Wilson ",2011-06-24,200,106,559.8
+226,Cars 3,Animation/Comedy/Sports ,Brian Fee,"Owen Wilson, Cristela Alonzo ",2017-06-16,175,102,383.9
+227,Planes 1,Animation/Comedy/Sports ,Klay Hall ,"Dane Cook, Stacy Keach",2013-08-09,50,92,240.2
+228,Planes:Fire and Rescue ,Animation/Comedy,Bobs Gannaway ,"Dane Cook, Stacy Keach",2014-07-18,50,84,147
+229,Puss in Boots ,Animation/Comedy/Adventure ,Chris Miller ,"Antonio Banderas, Salma Hayek ",2011-10-28,130,90,555
+230,Despicable Me ,Animation/Comedy/Adventure ,"Chris Renaud, Pierre Coffin ","Steve Carell, Jason Segel ",2010-07-09,69,95,543.2
+231,Brave ,Animation/Fantasy,"Mark Andrews, Brenda Chapman ","Kelly Macdonald, Emma Thompson ",2012-06-22,185,93,539
+232,WALL-E,Animation/Romantic/Sc-Fi,Andrew Stanton ,"Ben Burtt, Elissa Knight ",2008-06-27,180,97,532.5
+233,Ralph Breaks the Internet ,Animation/Comedy,"Rich Moore, Phil Johnston ","John C.Reilly, Sarah Silverman ",2018-11-21,175,112,529.3
+234,Demon Slayer:The Movie:Mugen Train ,Animation/Fantasy/Action  ,Haruo Sotozaki ,"Natsuki Hanae, Akari Kito ",2020-10-16,15.7,119,507.1
+235,Your Name ,Animation/Romantic/Fantasy ,Makoto Shinkai ,"Ryunosuke Kamiki, Mone Kamishiraishi",2016-08-26,4.9,107,400
+236,The Simpsons Movie ,Animation/Comedy,David Silverman ,"Dan Castellaneta, Julie Kavner ",2007-06-27,75,87,536.4
+237,Aladdin ,Animation/Fantasy/Comedy ,"John Musker, Ron Clements","Scott Weinger, Robin Williams ",1992-11-11,28,90,504.1
+238,The SpongeBob Movie:Sponge Out of Water,Animation/Adventure/Comedy,"Paul Tibbitt, Mike Mitchell","Antonio Banderas,Tom Kenny",2015-02-28,60,92,325.2
+239,Suzume,Animation/Adventure/Fantasy ,Makoto Shinkai ,"Nanoka Hara, Hokuto Matsumura",2022-11-11,6,122,318
+240,The Boy and The Heron,Animation/Fantasy ,Hayao Miyazaki,"Soma Santoki, Masaki Suda ",2023-07-14,53,124,294.2
+241,The Princes and the Frog,Animation/Romantic/Fantasy ,"John Musker, Ron Clements","Anika Noni Rose, Bruno Campos",2009-12-11,105,97,271
+242,One Piece Film:Red,Animation/Adventure/Fantasy ,Goro Taniguchi,"Mayumi Tanaka, Shuichi Ikeda ",2022-08-06,5,115,246.5
+243,Ponyo ,Animation/Fantasy ,Hayao Miyazaki,"Tomoko Yamaguchi, Kazushige Nagashima ",2008-07-19,34,101,205.9
+244,Jujutsu Kaisen 0,Animation/Fantasy ,Sunghoo Park,"Megumi Ogata, Kana Hanazawa ",2021-12-24,15.8,105,196.2
+245,Weathering with you ,Animation/Romantic/Fantasy ,Makoto Shinkai ,"Kotaro Daigo, Nana Mori",2019-07-19,11,112,193.8
+246,Titanic ,Romantic/Disaster ,James Cameron ,"Leonardo DiCaprio, Kate Winslet ",1997-12-19,200,195,2264
+247,Star Wars:The Force Awakens,Space/Opera ,J. J. Abrams ,"Harrison Ford, Mark Hamill ",2015-12-18,447,138,2071
+248,Jurassic World ,Sc-Fi/Action,Colin Trevorrow ,"Chris Pratt, Byrce Dallas Howard ",2015-06-12,150,124,1671
+249,Furious 7,Action ,James Wan ,"Vin Diesel, Paul Walker",2015-04-03,190,137,1515
+250,Star Wars:The Last Jedi ,Space/Opera ,Rian Johnson ,"Mark Hamill, Carrie Fisher ",2017-12-15,300,152,1334
+251,Jurassic World:Fallen Kingdom,Sc-Fi/Action,J.A. Bayona,"Chris Pratt, Bryce Dallas Howard ",2018-06-22,432,128,1310
+252,Beauty and The Beast ,Romantic/Fantasy,Bill Condon ,"Emma Watson, Dan Stevens ",2017-03-17,160,129,1266
+253,The Fate Of The Furious ,Action ,F. Gary Gray ,"Vin Diesel, Dwayne Johnson ",2017-04-14,250,136,1236
+254,SkyFall,Spy/Action,Sam Mendes ,"Daniel Craig, Javier Barden ",2012-10-26,150,143,1109
+255,The Dark Knight Rise ,Superhero ,Christoher Nolan ,"Christian Bale, Michael Caine ",2012-07-20,250,164,1085
+256,Joker ,Psychological /Thriller ,Todd Phillips,"Joaquin Phoenix, Robert De Niro ",2019-10-04,55,122,1079
+257,Star Wars:The Rise Of Skywalker,Space/Opera ,J. J. Abrams ,"Carrie Fisher, Mark Hamill",2019-12-20,416,142,1077
+258,Priate of the Caribbean:Dead Man's Chest,Fantasy/Swashbuckler,Gore Verbinski ,"Johnny Depp, Orlando Bloom ",2006-07-07,225,151,1066
+259,Rogue One ,Space/Opera ,Gareth Edwards ,"Felicity Jones, Diego Luna ",2016-12-16,200,134,1059
+260,Aladdin ,Musical/Fantasy,Guy Ritchie ,"Will Smith, Mena Massound ",2019-05-24,183,128,1054
+261,Star Wars:Episode I -The Phantom Menace ,Space/Opera ,George Lucas ,"Liam  Neeson, Ewan McGregor ",1999-05-19,115,134,1046
+262,Priate of the Caribbean:On Stranger Tides,Fantasy/Swashbuckler,Rob Marshall,"Johnny Depp, Penelope Cruz",2011-05-20,410.6,137,1046
+263,Jurassic Park ,Sc-Fi/Action,Steven Spielberg ,"Sam Neill, Laura Dern",1993-06-11,63,127,1058
+264,Alice in Wonderland ,Adventure/Fantasy ,Tim Burton ,"Johnny Depp, Anee Hathaway ",2010-03-05,150,108,1025
+265,The Dark Knight ,Superhero ,Christopher Nolan,"Christian Bale, Michael Caine ",2008-07-25,185,152,1006
+266,Missionn:Impossible2,Spy/Action,John Woo,"Tom Cruise, Paula Wagner ",2000-05-24,120,124,546.3
+267,Pirates of the Caribbean:At World's End ,Fantasy/Swashbuckler,Gore Verbinski ,"Johnny Deep, Orlando Bloom ",2007-05-25,300,168,963.4
+268,Gone with the Wind ,Historical/Romance ,Victor Fleming ,"Clark Gable, Vivien Leigh ",1939-12-15,3.85,221,390
+269,Star Wars ,Space/Opera,George Lucas ,"Mark Hamill, Carrie Fisher ",1977-05-25,11,121,775.4
+270,The Sound of Music ,Musical/Drama,Robert Wise,"Julie Andrews, Christopher Plummer ",1965-03-02,8.2,174,286.2
+271,E.T. the Extra-Terrestrial,Sc-Fi,Steven Spielberg ,"Dee Wallace, Henry Thomas ",1982-06-11,10.5,114,792.9
+272,The Ten Commandments,Religious/Drama,Cecil B.DeMille ,"Charlton Heston, Yul Brynner ",1956-11-08,13,220,122.7
+273,Doctor Zhivago ,Historical/Romance ,David Lean ,"Geraldine Chaplin, Julie Christie ",1992-12-22,11,200,248.2
+274,Spider-Man ,Superhero ,Sam Raimi ,"Tobey Maguire, Willem Dafoe ",2002-05-03,139,121,831.2
+275,Spider-Man 2,Superhero ,Sam Raimi ,"Tobey Maguire, Willem Dafoe ",2004-06-30,200,127,795.9
+276,Spider-Man 3,Superhero ,Sam Raimi ,"Tobey Maguire, Willem Dafoe ",2007-05-04,258,139,890.9
+277,The Amazing Spider-Man ,Superhero ,Marc Webb,"Andrew Garfield, Emma Stone ",2012-07-03,200,136,758
+278,The Amazing Spider-Man 2,Superhero ,Marc Webb,"Andrew Garfield, Emma Stone ",2014-05-02,200,142,709
+279,Spider-Man: Into the Spider-Verse ,Animation/Superhero,"Bob Persichetti, Peter Ramsey, Rodney Rothman ","Shameik Moore, Jake Johnson",2018-12-14,90,117,384.3
+280,The Empire Strikes Back ,Space/Opera ,Irvin Kershner ,"Mark Hamill, Carrie Fisher ",1980-05-21,30.5,124,538
+281,Return of the Jedi ,Space/Opera ,Richard Marquand,"Mark Hamill, Carrie Fisher ",1983-05-25,32.5,132,482
+282,Star Wars:Episode II-Attack of the Clones ,Space/Opera ,George Lucas ,"Ewan McGregor, Natalie Portman ",2002-05-16,115,142,653.8
+283,Star Wars:Episode III-Revenge of the Sith,Space/Opera ,George Lucas ,"Ewan McGregor, Natalie Portman ",2005-05-16,113,140,868.4
+284,Solo:A Star Wars Story ,Space/Western,Ron Howard ,"Alden Ehrenreich, Woody Harrelson ",2018-05-25,275,135,393.2
+285,Die Another Day ,Spy,Lee Tamahori ,"Pierce Brosnan, Halle Berry",2002-11-22,142,133,431.9
+286,Casino Royale ,Spy/Action/Thriller ,Martin Campbell,"Daniel Craig, Eva Green ",2002-11-17,102,144,616
+287,Quantum of Solace ,Spy,Marc Forster ,"Daniel Craig, Olga Kurylenko",2008-11-14,200,106,589.6
+288,Spectre ,Spy,Sam Mendes ,"Daniel Craig, Christoph Waltz",2015-11-06,245,148,880.7
+289,No Time To Die ,Spy,Cary Joji Fukunaga ,"Daniel Craig, Rami Malek ",2021-10-08,250,163,774.2
+290,X-Men,Superhero ,Bryan Singer ,"Patrick Stewart, Hugh Jackman ",2000-07-14,75,104,296.3
+291,X2,Superhero ,Bryan Singer ,"Patrick Stewart, Hugh Jackman ",2003-05-02,110,134,407.7
+292,X-Men:The Last Stand ,Superhero ,Brett Ratner ,"Hugh Jackman, Halle Berry",2006-05-26,210,104,460.4
+293,X-Men Origins: Wolverine ,Superhero ,Gavin Hood ,"Hugh Jackman, Danny Huston ",2009-05-01,150,107,373
+294,The Wolverine ,Superhero ,James Mangold ,"Hugh Jackman, Hiroyuki Sanada ",2013-07-26,100,126,414.8
+295,Logan,Superhero ,James Mangold ,"Hugh Jackman, Patrick Stewart ",2017-05-03,97,137,619.2
+296,X-Men :First Class ,Superhero ,Matthew Vaughn ,"James McAvoy, Michael Fassbender ",2011-06-03,140,132,353
+297,X-Men:Days of Future Past,Superhero ,Bryan Singer ,"Hugh Jackman, James McAvoy",2014-05-10,200,132,746
+298,X-Men:Apoxalypse ,Superhero ,Bryan Singer ,"James McAvoy, Michael Fassbender ",2016-05-27,178,144,543.9
+299,Dark Phoenix ,Superhero ,Simon Kinberg,"James McAvoy, Michael Fassbender ",2019-06-07,200,114,252.4
+300,Deadpool ,Superhero ,Tim Miller ,"Ryan Reynolds, Morena Baccarin",2016-02-12,58,108,782
+301,Deadpool 2,Superhero ,David Leitch ,"Ryan Reynolds, Josh Brolin",2018-05-18,110,119,785
+302,The New Mutants ,Superhero ,Josh Boone ,"Maisie Williams, Anya Taylor-Joy",2020-08-28,67,94,49.2
+303,The Fast and the Furious ,Action ,Rob Cohen ,"Vin Diesel, Paul Walker",2001-06-22,38,106,207.3
+304,2 Fast 2 Furious ,Action ,John Singleton ,"Paul Walker, Tyrese Gibson ",2003-06-06,76,108,236.4
+305,The Fast and the Furious:Tokyo Drift ,Action ,Justin Lin ,"Lucas Black, Bow Wow ",2006-06-16,85,104,159
+306,Fast & Furious ,Action ,Justin Lin ,"Vin Diesel, Paul Walker",2009-04-03,85,107,360.4
+307,Fast Five ,Action ,Justin Lin ,"Vin Diesel, Paul Walker",2011-04-29,125,130,626.1
+308,Fast & Furious 6,Action ,Justin Lin ,"Vin Diesel, Paul Walker ",2013-04-24,160,130,788.7
+309,F9,Action ,Justin Lin ,"Vin Diesel, Michelle Rodriguez",2021-06-25,200,143,726.2
+310,Batman:Return of the Caped ,Animation/Superhero,Rick Morales ,"Adam West, Burt Ward ",2016-10-10,3.5,78,0.057
+311,Batman vs. Two-Face ,Animation/Superhero,Rick Morales ,"Adam West, Burt Ward ",2017-10-10,1,72,1.1
+312,Batman:The Killing Joke ,Adult/Animation/Superhero,Sam Liu,"Kevin Conroy, Mark Hamill ",2016-07-25,3.5,77,4.4
+313,The Lego Batman Movie ,Animation/Superhero/Comedy,Chris Mckey,"Will Arnett, Zach Galigianakis ",2017-03-30,80,104,312.2
+314,Batman Begins ,Superhero ,Christoper Nolan,"Christian Bale, Michael Caine ",2005-06-17,150,140,373.7
+315,Joker: Folie `a Deux,Psychological/Thriller/Musical,Todd Phillips,"Joaquin Phoenix, Lady Gaga",2024-10-04,200,138,204.8
+316,The Batman,Superhero,Matt Reeves,"Robert Pattinson, Zoe Kravitz",2022-10-04,185,176,772.3
+317,The Lost World:Jurassic Park ,Sc-Fi/Fiction/Action,Steven Spielberg ,"Jeff Goldblum, Julianne Moore ",1997-05-23,73,129,618.6
+318,Jurassic Park III,Sc-Fi/Fiction/Action,Joe Johnston,"Sam Neill, William H.Macy ",2001-07-18,93,92,368.8
+319,Jurassic World Dominion ,Sc-Fi/Fiction/Action,Colin Trevorrow ,"Chris Pratt, Byrce Dallas Howard ",2022-06-10,265,160,1400
+320,The Lord of The Rings ,Animation/Fantasy,Ralph Bakshi ,"Christopher Guard, William Squire ",1979-07-05,4,133,32.6
+321,The Hobbit: An Unexpected Journey ,Fantasy/Adventure ,Peter Jackson,"Ian Mckellen, Martin Freeman ",2012-12-14,200,169,1017
+322,The Hobbit:The Desolation of Smaug ,Fantasy/Adventure ,Peter Jackson,"Ian Mckellen, Martin Freeman ",2013-12-13,217,161,959
+323,The Hobbit:The Battle of the Five Armies ,Fantsy/Adventure ,Peter Jackson,"Ian Mckellen, Martin Freeman ",2014-12-17,209,144,962.2
+324,Despicable Me 4,Animation/Comedy,Chris Renaud ,"Steve Carell, Kristen Wiig",2024-07-03,100,95,968.3
+325,Pirates of the Caribbean:The Curse of the Black Pearl,Fantasy/Swashbuckler,Gore Verbinski ,"Johnny Depp, Geoffrey Rush ",2003-07-09,140,143,654.3
+326,Pirates of the Caribbean:Dead Men Tell No Tales ,Fantasy/Swashbuckler,Joachim Ronning ,"Johnny Depp, Javier Bardem ",2017-05-26,230,129,795.9
+327,Mission:Impossible ,Action/Spy ,Brian De Palma ,"Tom Cruise, Jon Voight ",1996-05-22,80,110,457.7
+328,Mission:Impossible III,Action/Spy ,J. J. Abrams ,"Tom Cruise, Philip Seymour Hoffman ",2006-05-05,150,126,399.4
+329,Mission:Impossible-Ghost Protocol,Action/Spy ,Brad Bird ,"Tom Cruise, Jeremy Renner ",2011-12-16,145,133,694.7
+330,Mission:Impossible-Rogue Nation ,Action/Spy ,Christopher McQuarrie ,"Tom Cruise, Jeremy Renner ",2015-07-31,150,131,688.9
+331,Mission:Impossible-Fallout ,Action/Spy ,Christopher McQuarrie ,"Tom Cruise, Henry Cavill",2018-07-27,178,147,791.1
+332,Shrek ,Fantasy/Comedy,"Andrew Adamson, Vicky Jenson ","Mike Myers, Eddie Murphy ",2001-05-18,60,90,492.2
+333,Puss in Boots:The Last Wish,Animation/Adventure/Comedy,Joel Crawford,"Antonio Banderas, Salma Hayek",2022-12-21,90,102,485.3
+334,The Hunger Games ,Dystopian/Action ,Gary Ross,"Jennifer Lawrence, Josh Hutcherson",2012-12-23,78,142,695.2
+335,The Hunger Games:Catching Fire ,Dystopian/Action ,Francis Lawrence ,"Jennifer Lawrence, Josh Hutcherson",2013-11-22,130,146,865
+336,The Hunger Games:Mockingjay-Part 1,Dystopian/Action ,Francis Lawrence ,"Jennifer Lawrence, Josh Hutcherson",2014-11-21,125,123,755.4
+337,The Hunger Games:Mockingjay-Part 2,Dystopian/Action ,Francis Lawrence ,"Jennifer Lawrence, Josh Hutcherson",2015-11-20,160,137,661.4
+338,The Hunger Games:The Ballad of Songbirds & Snakes,Dystopian/Action ,Francis Lawrence ,"Tom Blyth, Rachel Zegler ",2023-11-17,100,157,348.9
+339,Dragon Ball Super:Broly,Animation/Martial Arts/Fantasy ,Tatsuya Nagamine ,"Masako Nozawa, Ryo Horikawa ",2018-12-14,8.5,100,124
+340,The Wind Rises ,Animation/Historical/Drama ,Hayao Miyazaki,"Hideaki Anno, Miori Takimoto",2013-07-20,30,126,136.5
+341,Atlantis: The Lost Empire ,Animation/Sc-Fi/Fantasy ,"Gary Trousdale, Kirk Wise ","Michael J. Fox, James Garner ",2001-06-15,90,96,186.1
+342,The Emperor's New Groove ,Animation/Fantasy/Comedy,Mark Dindal ,"David Spade, John Goodman ",2000-12-15,100,78,169.7
+343,Arrietty ,Animation/Fantasy,Hiromasa Yonebayashi ,"Mirai Shida, Ryunosuke Kamiki ",2010-07-17,23,95,146
+344,Home on the Range ,Animation/Western/Musical,Will Finn,"Roseanne Barr, Judi Dench ",2004-04-02,110,76,145.3
+345,The SpongeBob SquarePants Movie ,Animation/Adventure/Comedy,Stephen Hillenburg,"Tom Kenny, Bill Fagerbakke ",2004-11-19,30,87,141
+346,Sprit:Stallion of the Cimarron,Animation/Western,"Kelly Asbury, Lorna Cook","Matt Damon, James Cromwell",2002-05-24,80,83,122.6
+347,Sing 2 ,Animation/Jukebox/Musical,Garth Jennings ,"Matthew McConaughey, Reese Witherspoon ",2021-12-22,85,110,408.4
+348,Dinosaur ,Animation/Adventure/Live-action,"Ralph Zondag, Eric Leighton","D. B. Sweeney, Alfre Woodard ",2000-05-19,127.5,82,349.8
+349,Toy Story ,Animation/Comedy,John Lasseter ,"Tom Hanks, Tim Allen ",1995-11-19,30,81,394.4
+350,Toy Story 2,Animation/Comedy/Adventure ,John Lasseter ,"Tom Hanks, Tim Allen ",1999-11-24,90,92,511.4
+351,Lightyear ,Animation/Sc-Fi/Action,Angus MacLane,"Chris Evans, Keke Palmer ",2022-06-17,200,105,226.4
+352,The Smurfs ,Fantasy/Adventure/Comedy,Raja Gosnell,"Neil Patrick Harris, Jayma Mays",2011-07-29,110,103,563.7
+353,Ted ,Fantasy/Adventure/Comedy,Seth MacFarlane ,"Mark Wahlberg, Mila Kunis ",2012-06-29,50,106,549.4
+354,Teenage Mutant Ninja Turtles ,Superhero/Comedy ,Jonathan Liebesman ,"Megan Fox, Will Arnett ",2014-08-08,125,101,485
+355,Alvin and the Chipmunks:The Squeakquel ,Live-action/Animation/Jukebox,Betty Thomas ,"Zachary Levi, David Cross ",2009-12-23,70,88,443.1
+356,Detective Pikachu ,Fantasy ,Rob Letterman,"Ryan Reynolds, Justice Smith ",2019-05-10,150,104,450.1
+357,Sonic the Hedgehog 2,Action/Adventure/Conedy,Jeff Fowler ,"Ben Schwartz, James Marsden ",2022-08-19,90,122,405.4
+358,Alvin and the Chipmunks ,Live-action/Animation/Jukebox,Tim Hill,"Jason Lee, David Cross",2007-12-14,60,92,361.3
+359,Who Framed Roger Rabbit ,Fantasy/Comedy ,Robert Zemeckis ,"Bob Hoskins, Christopher Lloyd ",1988-12-22,50.6,104,351.5
+360,Peter Rabbit ,Comedy ,Will Gluck ,"Rose Byrne, Domhnall Gleeson ",2018-03-22,50,95,351.3
+361,Mary Poppins Returns,Musical/Fantasy,Rob Marshall,"Emily Blunt, Lin-Manuel Miranda ",2016-12-19,130,131,349.5
+362,The Smurfs 2,Fanstasy/Comedy ,Raja Gosnell,"Neil Patrick Harris, Jayma Mays",2013-07-31,105,105,347.5
+363,Alvin and the Chipmunks:Chipwrecked ,Live-action/Animation/Jukebox,Mike Mitchell,"Jason Lee, David Cross",2011-12-16,80,87,342.7
+364,Enchanted ,Live-action/Animation/Musical ,Kevin Lima ,"Amy Adams, Patrick Dempsey ",2007-11-21,25,107,340.5
+365,Sonic the Hedgehog ,Action/Adventure/Comedy,Jeff Fowler ,"James Marsden, Jim Carrey ",2020-06-26,85,99,320
+366,Stuart Little ,Live-action/Animation/Comedy,Rob Minkoff,"Geena Davis, Hugh Laurie ",1999-12-17,105,84,300.1
+367,G-Force ,Spy/Adventure/Comedy,Hoyt H.Yeatman Jr.,"Bill Nighy, Will Arnett",2009-07-24,150,90,292.8
+368,Casper ,Supernatural/Fantasy/Comedy ,Brad Silberling ,"Malachi Pearson, Christina Ricci ",1995-05-26,55,101,288
+369,Stuart Little 2,Live-action/Animation/Comedy,Rob Minkoff,"Geena Davis, Hugh Laurie ",2002-07-19,120,78,170
+370,Stuart Little 3:Call of the Wild ,Live-action/Animation/Comedy,Audu Paden ,"Michael J. Fox, Geena Davis ",2006-02-21,110,75,180
+371,Paddington ,Live-action/Animation/Comedy,Paul King ,"Hugh  Bonneville, Sally Hawkins ",2014-12-03,65,95,282.8
+372,Scooby-Doo,Mystery/Adventure ,Raja Gosnell,"Freddie Prinze Jr, Sarah Michelle Gellar ",2002-06-14,84,86,275.7
+373,Space Jam ,Live-action/Animation/Comedy,Joe Pytka ,"Michael Jordan, Billy West",1996-11-15,80,88,250.2
+374,Teenage Mutant Ninja Turtles:Out of the Shadows ,Superhero/Comedy ,Drave Green ,"Megan Fox, Will Arnett ",2016-05-22,135,112,245.6
+375,Alvin and the Chipmunks:The Road Chip,Live-action/Animation/Jukebox,Walt Becker ,"Jason Lee, David Cross",2015-12-18,90,92,234.8
+376,Paddington 2,Live-action/Animation/Comedy,Paul King ,"Hugh Bonneville, Sally Hawkins ",2017-12-06,40,104,227.3
+377,Ted 2,Fantasy/Comedy,Seth MacFarlane ,"Mark Wahlberg, Seth MacFarlane ",2015-06-26,68,115,215.9
+378,Yogi Bear ,Live-action/Animation/Comedy,Eric Brevig ,"Dan Aykroyd, Justin Timberlake ",2010-12-17,80,80,200
+379,Garfield:The Movie,Comedy ,Peter Hewitt,"Breckin Meyer, Jennifer Love Hewitt",2004-06-11,50,84,208.1
+380,Christopher Robin ,Live-action/Animation/Fantasy,Marc Forster ,"Ewan McGregor, Hayley Atwell",2018-08-03,65,104,197.7
+381,The Big ,Fantasy/Adventure ,Steven Spielberg ,"Mark Rylance, Ruby Barnhill",2016-07-22,140,118,195.2
+382,IF,Fantasy/Comedy ,John Krasinski ,"Cailey Fleming, Ryan Reynolds",2024-05-17,110,104,190.3
+383,Scooby-Doo 2:Monsters Unleashed ,Mystery/Adventure/Comedy,Raja Gosnell,"Freddie Prinze Jr, Sarah Michelle Gellar ",2004-03-26,25,92,181.2
+384,Hop,Live-action/Animation/Comedy,Tim Hill,"James Marsden, Russell Brand ",2011-04-01,63,95,183.9
+385,Space Jam: A New Legacy ,Live-action/Animation/Sport ,Malcolm D.Lee,"LeBron James, Don Cheadle ",2021-07-16,150,115,163.7
+386,Peter Rabbit 2: The Runway ,Adventure/Comedy ,Will Gluck ,"Rose Byrne, Domhnall Gleeson ",2021-06-11,45,93,154
+387,Charlotte's Web,Fantasy ,Gary Winick ,"Julia Roberts, Dakota Fanning ",2006-12-15,85,97,150
+388,Pete's Dragon ,Fantasy/Adventure,David Lowery ,"Bryce Dallas Howard, Oakes Fegley ",2016-08-12,65,103,143.7
+389,Garfield:A Tail of Two Kittties ,Adventure/Comedy ,Tim Hill,"Breckin Meyer, Jennifer Love Hewitt",2006-06-16,60,78,143.3
+390,Tom & Jerry ,Live-action/Comedy/Animation ,Tim Story ,"Chloe Grace Moretz, Michael Pena ",2021-02-26,50,101,136
+391,Walking with Dinosaurs,Live-action/Animation,"Neil Nightingale, Barry Cook ","John Leguizamo, Justin Long ",2013-12-20,80,87,126.5
+392,Dora and the Lost City of Gold ,Adventure/Comedy ,James Bobin ,"Isabela Moner, Eugenio Derbez ",2019-08-09,49,102,120.6
+393,The Call of the Wild ,Adventure ,Chris Sanders ,"Harrison Ford, Omar Sy ",2020-02-21,125,100,111.1
+394,"Lyle,Lyle, Crocodile ",Live-action/Animation/Comedy,"Will Speck, Josh Gordon ","Javier Bardem, Constance Wu",2022-10-07,50,106,111
+395,Arthur and the Minimoys ,Live-action/Animation/Fantasy,Luc Besson ,"Robert De Niro, Madonna ",2006-11-29,63,103,107.9
+396,Clifford the Big Red Dog ,Live-action/Animation/Fantasy,Walt Becker ,"Jack Whitehall, Darby Camp",2021-11-10,64,96,107.4
+397,Mary Poppins  ,Musical/Fantasy/Comedy,Robert Stevenson ,"Julie Andrews, Dick Van Dyke ",1964-09-24,4.4,139,103.1
+398,Cheburashka ,Action/Animation,Dmitry Dyachenko ,"Olga Kuzmina, Sergei Garmash ",2023-01-01,12,113,88.212
+399,Arthur and the Revenge of Maltazard ,Live-action/Animation/Fantasy,Luc Besson ,"Freddie Prinze Jr, Selena Gomez ",2009-12-02,43,93,78.5
+400,Looney Tunes:Back in Action ,Live-action/Animation/Comedy,Joe Dante ,"Brendan Fraser, Jenna Elfman ",2003-11-14,80,93,68.5
+401,Song of the South ,Live-action/Animation/Musical ,"Harve Foster, Wilfred Jackson","Ruth Warrick, Lucile Watson ",1947-01-30,2.1,94,65
+402,Monster Trucks ,Live-action/Animation/Comedy,Chris Wedge ,"Lucas Till, Jane Levy",2017-01-13,125,105,64.5
+403,Houba! On the Trail of the Marsupilami ,Live-action/Comedy/Animation ,Alain Chabat ,"Alain Chabat, Jamel Debbouze",2012-04-04,41.6,105,51.1
+404,Aliens in the Attic ,Sc-Fi/Fiction/Comedy,John Schultz,"Kevin Nealon, Robert Hoffman ",2009-07-31,45,86,59.6
+405,The Adventures of Rocky and Bullwinkle ,Live-action/Animation/Adventure,Des McAnuff,"Rene Russo, Jason Alexander ",2000-06-20,76,92,35.1
+406,Thomas and the Magic Railroad ,Fantasy/Adventure/Children,Britt Allcroft ,"Peter Fonda, Mara Wilson",2000-07-26,19,84,19.7
+407,Woody Woodpecker ,Live-action/Animation ,Alex Zamm,"Eric Bauza, Timothy Omundson ",2018-02-06,10,91,15.3
+408,Smurfs: The Lost Village ,Fantasy/Adventure/Comedy,Kelly Asbury,"Demi Lovato, Rainn Wilson ",2017-04-07,60,90,197.2
+409,TMNT ,Superhero ,Kevin Munroe,"Chris Evans, Sarah Michelle Gellar",2007-03-23,34,87,95.6
+410,Teenage Mutant Ninja Turtles:Mutant Mayhem ,Superhero,Jeff Rowe,"Micah Abbey, Shamon Brown Jr.",2023-08-02,70,99,180.5
+411,It,Supernatural/Horror,Andy Muschietti ,"Jaden Lieberher, Bill Skarsgard",2017-09-08,35,135,704.2
+412,The Sixth Sense ,Psychological /Thriller,M.Night Shyamalan,"Bruce Willis, Toni Collette",1999-08-06,40,108,672.8
+413,I Am Legend ,Post-Apocalyptic/Action/Thriller,Francis Lawrence ,"Will Smith, Alice Braga",2007-12-14,150,101,585
+414,World War Z,Action/Horror,Marc Forster ,"Brad Pitt, Dede Gardner ",2013-06-21,190,116,540
+415,Jaws,Thriller,Steven Spielberg ,"Roy Scheider, Robert Shaw ",1975-06-20,9,124,476.5
+416,It Chapter Two ,Supernatural/Horror,Andy Muschietti ,"James McAvoy, Jessica Chastain",2015-09-06,79,169,473.1
+417,Bettlejuice Beetlejuice ,Fantasy/Comedy/Horror,Tim Burton ,"Michael Keaton, Wiona Ryder",2024-09-06,99,104,451.1
+418,The Exorcist ,Supernatural/Horror,William Friedkin ,"Ellen Burstyn, Max Von Sydow",1973-12-26,12,122,441.3
+419,Signs ,Sc-Fi/Thriller/Horror,M.Night Shyamalan,"Mel Gibson, Joaquin Phoenix",2002-08-02,72,106,408.2
+420,Prometheus ,Sc-Fi/Fiction/Horror,Ridley Scott,"Noomi Rapace, Michael Fassbender ",2012-06-08,120,124,403.4
+421,The Nun ,Gothic/Supernatural/Horror,Corin Hardy ,"Demian Bichir, Raissa Farmiga ",2018-09-07,22,96,366
+422,Hannibal ,Horror,Ridley Scott,"Anthony Hopkins, Julianne Moore ",2001-02-09,87,131,351.6
+423,Alien: Romulus ,Sc-Fi/Horror,Fede Alvarez,"Cailee Spaeny, David Jonsson",2024-08-16,80,119,350.9
+424,A Quiet Place ,Post-Apocalyptic/Horror,John Krasinski ,"Emily Blunt, John Krasinski",2018-04-06,17,90,341
+425,The Conjuring 2 ,Supernatural/Horror,James Wan ,"Vera Farmiga, Patrick Wilson",2016-06-10,40,134,321.8
+426,The Conjuring,Supernatural/Horror,James Wan ,"Vera Farmiga, Patrick Wilson",2013-07-19,20,112,319.5
+427,Resident Evil: The Final Chapter ,Action/Horror,Paul W. S. Anderson ,"Milla Jovovich, Lain Glen ",2017-02-03,40,106,312.2
+428,Annabelle: Creation ,Supernatural/Horror,David F.Sandberg ,"Stephanie Sigman, Talitha Bateman ",2017-08-11,15,110,306.5
+429,Van Helsing ,Action/Horror,Stephen Sommers ,"Hugh Jackman, Kate Beckinsale ",2004-05-07,160,131,300.2
+430,Resident Evil: Afterlife,Action/Horror,Paul W. S. Anderson ,"Milla Jovovich, Ali Larter ",2010-09-02,60,97,300.2
+431,A Quiet Place Part II,Post-Apocalyptic/Horror,John Krasinski ,"Emily Blunt, Cillian Murphy",2021-05-28,55,97,297.4
+432,Five Nights at Freddy's ,Supernatural/Horror,Emma Tammi ,"Josh Hutcherson, Elizabeth Lail",2023-10-27,20,109,297.1
+433,Split ,Psychological/Thriller,M.Night Shyamalan,"James McAvoy, Anya Taylor-Joy",2017-01-20,9,118,278.5
+434,Scary Movie ,Slasher/Parody,Keenen Ivory Wayans ,"Jon Abrahams, Rick Ducommun",2000-07-07,19,88,278
+435,The Silence of the Lambs ,Psychological/Horror,Jonathan Demme,"Jodie Foster, Anthony Hopkins",1991-02-14,19,118,272.7
+436,The Nun II,Gothic/Supernatural/Horror,Michael Chaves,"Bonnie Aarons, Taissa Farmiga ",2023-09-08,38.5,110,269.5
+437,A Quiet Place:Day One ,Apocalyptic/Horror,Michael Sarnoski ,"Lupita Nyong'o, Joseph Quinn",2024-06-28,67,99,261.8
+438,Halloween ,Slasher ,David Gordon Green ,"Jamie Lee Curtis, Judy Greer",2018-10-19,10,106,259.9
+439,The Village ,Period/Thriller ,M.Night Shyamalan,"Joaquin Phoenix, Adrien Brody ",2004-07-30,60,108,256.7
+440,Annabelle,Supernatural/Horror ,John R.Leonetti,"Annabelle Wallis, Ward Horton ",2014-10-03,6.5,99,257.6
+441,Us ,Psychological/Horror,Jordan Peele ,"Lupita Nyong'o, Winston Duke",2019-03-22,20,116,256.1
+442,Get Out ,Psychological/Horror,Jordan Peele ,"Daniel Kaluuya, Allison Williams",2017-02-24,4.5,104,255.4
+443,The Ring ,Supernatural/Horror,Gore Verbinski ,"Naomi Watts, Martin Hederson",2002-10-18,48,115,249.3
+444,The Blair Witch Project ,Supernatural/Horror,"Daniel Myrick, Eduardo Sanchez ","Heather Donahue, Michael Williams ",1999-07-14,0.2,81,248.6
+445,Dark Shadows ,Gothic/Dark/Fantasy ,Tim Burton ,"Johnny Deep, Michelle Pfeiffer",2012-05-11,150,114,245.5
+446,Alien: Covenant ,Sc-Fi/Fiction/Horror,Ridley Scott,"Michael Fassbender, Katherine Waterston ",2017-05-19,97,112,240.9
+447,Resident Evil: Retribution ,Action/Horror,Paul W. S. Anderson ,"Milla Jovovich, Michelle Rodriguez",2012-09-26,65,96,240.2
+448,Annabelle Comes Home ,Supernatural/Horror,Gary Dauberman ,"Mickenna Grace, Madison Iseman ",2019-06-26,27,106,231.3
+449,Constantine ,Superhero/Horror,Francis Lawrence ,"Keanu Reeves, Rachel Weisz",2005-02-18,70,121,230.9
+450,Interview with the Vampire ,Gothic/Horror,Neil Jordan,"Tom Cruise, Brad Pitt",1994-11-11,60,122,223.7
+451,Scary Movie 3,Parody ,David Zucker,"Anna Faris, Anthony Anderson",2003-10-24,48,84,220.6
+452,Dracula Untold ,Action/Horror,Gary Shore ,"Luke Evans, Dominic Cooper",2014-10-10,70,92,217.1
+453,Smile,Psychological/Supernatural/Horror,Parker Finn,"Sosie Bacon, Jessie T. Usher",2022-09-30,17,115,217.4
+454,Bran Stoker's Dracula ,Gothic/Horror,Francis Ford Coppola ,"Gary Oldman, Winona Ryder ",1992-11-13,40,128,215.9
+455,The Others ,Supernatural/Psychological/Horror ,Alejandro Amenabar ,"Nicole Kidman, Fionnula Flanagan",2001-09-07,17,104,210
+456,Jaws 2 ,Horror/Thriller,Jeannot Szwarc,"Roy Scheider, Lorraine Gary ",1978-06-16,20,111,208
+457,Sleepy Hollow ,Gothic/Supernatural/Horror,Tim Burton ,"Johnny Depp, Christina Ricci ",1999-11-19,70,106,207.1
+458,Paranormal Activity 3,Supernatural/Horror,"Hery Joost, Ariel Schulman ","Lauren Bittner, Chris Smith ",2011-10-21,5,84,207
+459,The Conjuring: The Devil Made Me Do It ,Supernatural/Horror,Michael Chaves ,"Vera Farmiga, Patrick Wilson",2021-06-04,39,112,206.4
+460,Paranormal Activity ,Supernatural/Horror,Oren Peli,"Katie Featherston, Micah Sloat ",2009-09-25,0.2,86,194.2
+461,Alien vs. Predator ,Sc-Fi/Action/Horror,Paul W. S. Anderson ,"Sanaa Lathan, Raoul Bova",2004-08-13,60,100,177.4
+462,Aliens vs. Predator:Requiem ,Sc-Fi/Horror/Action,The Brothers Strause,"Steven Pasquale, Reiko Aylesworth",2007-12-25,40,94,130.3
+463,Alien,Sc-Fi/Horror/Action,Ridley Scott,"Tom Skerritt, Sigourney Weaver",1979-09-06,11,116,187
+464,Aliens,Sc-Fi/Horror/Action,James Cameron ,Sigourney Weaver ,1986-07-19,18.5,137,183.3
+465,Alien 3,Sc-Fi/Horror/Action,David Fincher ,"Sigourney Weaver, Charles S. Dutton ",1992-05-22,50,114,159.8
+466,Alien Resurrection,Sc-Fi/Horror/Action,Jean-Pierre Jeunet ,"Sigourney Weaver, Winona Ryder ",1997-11-26,70,109,161.4
+467,Saw,Horror,James Wan ,"Cary Elwes, Danny Glover ",2004-10-29,1.2,103,104
+468,Saw II,Horror,Darren Lynn Bousman,"Dannie Wahlberg, Franky G",2005-10-28,4,93,152.9
+469,Saw III,Horror,Darren Lynn Bousman,"Tobin Bell, Shawnee Smith",2006-10-27,10,108,164.9
+470,Saw IV,Horror,Darren Lynn Bousman,"Tobin Bell, Shawnee Smith",2007-10-26,10,92,139.4
+471,Saw V ,Horror,David Hacki ,"Tobin Bell, Costas Mandylor ",2008-10-24,10.8,92,118.2
+472,Saw VI,Horror,Kevin Greutert ,"Tobin Bell, Costas Mandylor ",2009-10-23,11,90,69.8
+473,Saw 3D,Horror,Kevin Greutert ,"Tobin Bell, Costas Mandylor ",2010-10-29,17,90,136.2
+474,Jigsaw,Horror ,The Spiering Brothers,"Matt Passmore, Callum Keith Rennie ",2017-10-27,10,92,104.2
+475,Spiral ,Horror/Thriller,Darren Lynn Bousman,"Chris Rock, Max Minghella ",2021-05-14,20,93,40.6
+476,Saw X,Horror,Kevin Greutert ,"Tobin Bell, Shawnee Smith",2023-09-29,13,118,125.3
+477,Red Dragon ,Psychological/Thriller,Brett Ratner ,"Anthony Hopkins, Edward Norton",2002-10-04,78,124,209.2
+478,Hannibal Rising ,Psychological/Horror/Thriller,Peter Webber,"Gaspard Ulliel, Gong Li",2007-02-22,75,121,82.1
+479,Scream ,Slasher ,Wes Craven ,"David Arquette, Neve Campbell ",1996-12-20,14,111,173
+480,Scream 2,Slasher ,Wes Craven ,"David Arquette, Neve Campbell ",1997-12-12,24,120,172
+481,Scream 3,Slasher ,Wes Craven ,"David Arquette, Neve Campbell ",2000-02-04,40,117,161.8
+482,Scream 4,Slasher ,Wes Craven ,"David Arquette, Neve Campbell ",2011-04-15,40,111,97.2
+483,Scream (2022 film),Slasher ,Matt Bettinelli-Olpin,"Melissa Barrera, Neve Campbell",2022-01-14,24,114,138.9
+484,Scream VI,Slasher ,Matt Bettinelli-Olpin,"Melissa Barrera, Jasmin Savoy Brown",2023-03-10,33,122,169
+485,Scary Movie 2,Supernatural/Parody,Kennen Ivory Wayans,"Shawn Wayans, Marlon Wayans",2001-07-04,45,82,141.2
+486,Scary Movie 4,Parody ,David Zucker,"Anna Faris, Regina Hall",2006-04-14,40,83,178.3
+487,Scary Movie 5,Parody ,Malcolm D.Lee,"Ashley Tisdale, Simon Rex",2013-04-12,20,86,78.4
+488,Paranormal Activity 2,Supernatural/Horror,Tod Williams,"Sprague Grayden, Brain Boland",2010-10-22,3,91,177.5
+489,Paranormal Activity 4,Supernatural/Horror,"Henry Joost, Ariel Schulman","Kathryn Newton, Matt Shively ",2012-10-19,5,88,142.8
+490,Paranormal Activity: The Marked Ones,Supernatural/Horror,Christopher Landon,"Jorge Diaz, Andrew Jacobs",2014-01-03,5,24,90.9
+491,Paranormal Activity: The Ghost Dimension,Supernatural/Horror,Gregory Plotkin,"Chris J. Murray, Brittany Shaw ",2015-10-23,10,88,78.9
+492,Paranormal Activity: Next of Kin,Supernatural/Horror,William Eubank,"Emily Bader, Roland Buck III",2021-10-29,0.015,98,194
+493,Halloween: Resurrection,Slasher,Rick Rosenthal ,"Busta Rhymes, Bianca Kajlich ",2002-07-12,15,90,37.6
+494,Halloween (2007),Slasher,Rob Zombie ,"Malcolm McDowell, Sheri Moon Zombie ",2007-08-31,15,110,80.4
+495,Halloween II,Slasher,Rob Zombie ,"Malcolm McDowell, Sheri Moon Zombie ",2009-08-28,15,105,39.4
+496,Halloween Kills ,Slasher ,David Gordon Green ,"Jamie Lee Curtis, Judy Greer",2021-10-15,20,105,133.4
+497,Halloween Ends,Slasher,David Gordon Green ,"Jamie Lee Curtis, Andi Matichak ",2022-10-11,33,111,105.4
+498,Predators,Sc-Fi/Action,Nimrod Antal,"Adrien Brody, Topher Grace",2010-10-09,40,107,127.2
+499,The Predator,Sc-Fi/Action,Shane Black ,"Boyd Holbrook, Olivia  Munn",2018-09-14,88,108,160.5
+500,Insidious: The Red Door,Supernatural/Horror,Patrick Wilson,"Ty Simpkins, Rose Byrne",2023-07-07,16,107,189.1
